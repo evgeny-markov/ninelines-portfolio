@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol id="scale-arrow">
+	<path fill="#3E3D40" d="M64.1 56.1c0 5.1-4.2 9.2-9.3 9.2L0 56.6l54.9-9.9c5.1.1 9.3 4.3 9.2 9.4z"/>
+</symbol>
+<symbol id="scale">
+	<path fill="#0093D7" d="M199.1 128c0-25.3-10.4-43.4-27.5-57.3l33.7-42.3C234.4 51.5 253 87.5 253 128h-53.9z"/>
+	<path fill="#A3CD3B" d="M128 54.8c-12.1 0-26.2 4.4-38.4 12.2L55.1 24C75.7 9.5 100.9 1 128 1c27.2 0 52.4 8.5 72.9 23l-34.5 43c-14.7-9.9-26.3-12.2-38.4-12.2z"/>
+	<path fill="#FFC815" d="M55.6 128H0c0-40.5 19.3-76.5 49.2-99.6L84 70.7c-18.7 14.6-28.4 32-28.4 57.3z"/>
+</symbol>
+</svg>
